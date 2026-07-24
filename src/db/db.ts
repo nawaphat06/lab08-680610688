@@ -1,11 +1,6 @@
-import {
-  type Student,
-  type Course,
-  type Enrollment,
-} from "../libs/types.js";
+import { type Student, type Course, type Enrollment } from "../libs/types.js";
 
-export const students: Student[] =
-[
+export const students: Student[] = [
   {
     studentId: "680610001",
     firstName: "Matt",
